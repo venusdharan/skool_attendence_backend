@@ -1,0 +1,23 @@
+{
+  "name": "skool_attendence_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venusdharan/skool_attendence_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venusdharan/skool_attendence_backend/issues"
+  },
+  "homepage": "https://github.com/venusdharan/skool_attendence_backend#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.4"
+  }
+}

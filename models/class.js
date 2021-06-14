@@ -17,6 +17,7 @@ module.exports = async function(mongoose,dataTables)
         },
         class_teacher:{
             type:String,
+            required:true
         },
         class_date:{
             type:Date,

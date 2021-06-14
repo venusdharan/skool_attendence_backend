@@ -96,7 +96,7 @@ module.exports = async function(server,models){
                    //console.log(pickup)
                    //console.log(delivery)
                    
-                    query.project_number = {
+                    query.class_teacher = {
                         $regex:request.query.search,
                         $options: 'i'
                     }
